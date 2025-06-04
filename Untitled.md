@@ -1,0 +1,1 @@
+Create a lesson summary and lesson notes that draw out the core concepts discussed in this lesson: 
