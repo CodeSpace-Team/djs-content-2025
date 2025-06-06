@@ -18,7 +18,7 @@ This module is divided into **three core project-based phases**, each one mapped
 
 ## Phase 1: Static Pages and Component Foundations
 
-**Scrimba Course**: [Static Pages](https://scrimba.com/learn-react-c0e/~044d)
+**Scrimba Course**: [Static Pages](https://scrimba.com/learn-react-c0e/~044d) (2.3 hrs)
 
 **Covers Lessons**:
 
@@ -44,7 +44,7 @@ This module is divided into **three core project-based phases**, each one mapped
 
 ## Phase 2: Data-Driven Interfaces with Props & Lists
 
-**Scrimba Course**: [Data-Driven React](https://scrimba.com/learn-react-c0e/~02fp)
+**Scrimba Course**: [Data-Driven React](https://scrimba.com/learn-react-c0e/~02fp) (2.2 hrs)
 
 **Covers Lessons**:
 
@@ -67,7 +67,7 @@ This module is divided into **three core project-based phases**, each one mapped
 
 ## Phase 3: State, Interactivity, and Real App Logic
 
-**Scrimba Course**: [React State](https://scrimba.com/learn-react-c0e/~0z7t)
+**Scrimba Course**: [React State](https://scrimba.com/learn-react-c0e/~0z7t) (5.2 hrs)
 
 **Covers Lessons**:
 
