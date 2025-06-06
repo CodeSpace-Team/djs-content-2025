@@ -62,20 +62,21 @@ To use a component from another file:
 
 2.  Import it where you want to use it:
 
-        ```jsx
-        // App.jsx
-        import Header from './Header';
+    ````jsx
+    // App.jsx
+    import Header from './Header';
 
-        function App() {
-          return (
-            <div>
-              <Header />
-            </div>
-          );
-        }
-        ```
+    function App() {
+      return (
+        <div>
+          <Header />
+        </div>
+      );
+    }
+      ```
 
     This is called **composition** — assembling your UI by combining smaller parts.
+    ````
 
 ## Parent-Child Relationships
 
